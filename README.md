@@ -46,5 +46,6 @@ Built with **MediaPipe + OpenCV**, designed for smooth real-time gameplay.
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<your-username>/PoseFighter.git
-cd PoseFighter
+git clone https://github.com/Sam-bot-dev/Street-fighter-3.git
+cd Street-fighter-3   
+```
