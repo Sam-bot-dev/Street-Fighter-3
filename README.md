@@ -1,7 +1,7 @@
-# PoseFighter 🥊🎮  
+# Street-Fighter-V2 🥊🎮  
 **Play fighting games using your body movements — no controller required.**
 
-PoseFighter is a Python-based motion controller that uses your **webcam + AI pose detection** to recognize actions like **punches and kicks**, then converts them into **keyboard inputs** for your game/emulator.
+Street-Fighter-V2 is a Python-based motion controller that uses your **webcam + AI pose detection** to recognize actions like **punches and kicks**, then converts them into **keyboard inputs** for your game/emulator.
 
 Built with **MediaPipe + OpenCV**, designed for smooth real-time gameplay.
 
@@ -27,7 +27,7 @@ Built with **MediaPipe + OpenCV**, designed for smooth real-time gameplay.
 ## 🧠 How It Works (Simple)
 1. **OpenCV** captures your webcam feed  
 2. **MediaPipe Pose** detects your body landmarks (joints)  
-3. PoseFighter checks movement rules like:
+3. Street-Fighter-V2 checks movement rules like:
    - hand above shoulder = punch  
    - both hands up = special move (optional)  
 4. It triggers a **keyboard press** to control the game
