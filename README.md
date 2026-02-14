@@ -49,3 +49,29 @@ Built with **MediaPipe + OpenCV**, designed for smooth real-time gameplay.
 git clone https://github.com/Sam-bot-dev/Street-fighter-3.git
 cd Street-fighter-3   
 ```
+Will add later 
+
+## Contributors
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <div>
+          <img src="https://avatars.githubusercontent.com/Sam-bot-dev?s=120" width="120px;" height="120px;" alt="Bhavesh"/>
+        </div>
+        <div><strong>⭐ Team Leader</strong></div>
+        <div><strong>Bhavesh</strong></div>
+        <a href="https://github.com/Sam-bot-dev">🌐 GitHub</a>
+      </td>
+       <td align="center" width="50%">
+        <div>
+          <img src="https://avatars.githubusercontent.com/Ivar2621?s=120" width="120px;" height="120px;" alt="Hetarth"/>
+        </div>
+        <div><strong>🧩 Head Teammate</strong></div>
+        <div><strong>Hetarth</strong></div>
+        <a href="https://github.com/Ivar2621">🌐 GitHub</a>
+      </td>
+    </tr>
+  </table>
+</p>
